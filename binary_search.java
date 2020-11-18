@@ -41,7 +41,18 @@ public class program2 {
 		{
 			System.out.println("We found it");
 		}
+		if(a==b)
+		{
+			print("value may be right");
+			int n, temp;
+Scanner s = new Scanner(System.
+System. out. print("Enter no. of elements you want in array:");
+n = s. nextInt();
+int a[] = new int[n];
+System. out. println("Enter all the elements:");
+for (int i = 0; i < n; i++)
 
-	}
+	}//This a the updated line for the program
+		
 
 }
